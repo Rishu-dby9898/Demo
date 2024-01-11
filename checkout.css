@@ -1,0 +1,56 @@
+.checkout-main {
+    width: 100%;
+    padding:20px 200px 50px 200px;
+}
+
+.checkout-submain {
+    border:2px solid rgb(211, 225, 224);
+    border-radius: 7px;
+}
+
+.checkout-head h1 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.checkout-inner-subbody-1 h1{
+font-size: 22px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.checkout-inner-subbody-1 p{
+font-size: 20px;
+color:rgb(139, 139, 139);
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.sbmt{
+    margin-top: 100px !important;
+}
+
+
+input{
+    border:2px solid rgb(211, 225, 224) !important;
+}
+
+.sbmt-btn{
+    width:30% !important;
+    margin-right: 10px;
+}
+
+.sbmt-cont{
+    display:flex;
+}
+
+
+
